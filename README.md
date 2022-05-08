@@ -22,7 +22,8 @@ It's a simple Ajax base Laravel CRUD system. Add User with some valid user infor
 
 ## Use the Following step to run the project 
     => Go to the project folder using cmd or terminal then use the command
-    1. composer install / composer update
+    1. composer install / composer update![laravel-logo-svg](https://user-images.githubusercontent.com/33959275/167317496-7cb9672f-255a-4d47-bc02-f08f8060617c.jpg)
+
     2. copy .env.example .env (from your windows cmd)
     3. php artisan key:generate
     4. Now configure your database username, password, host etc in your .env file
@@ -38,7 +39,11 @@ It's a simple Ajax base Laravel CRUD system. Add User with some valid user infor
 
 
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center">
+    <img src="//user-images.githubusercontent.com/33959275/167317516-02c20f71-fb52-42f1-a5e6-cc4006f16397.jpg" width="400">
+    
+</p>
+![laravel-logo-svg](https://user-images.githubusercontent.com/33959275/167317516-02c20f71-fb52-42f1-a5e6-cc4006f16397.jpg "laravel")
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
