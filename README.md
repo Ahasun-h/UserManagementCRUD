@@ -30,6 +30,7 @@ It's a simple Ajax base Laravel CRUD system. Add User with some valid user infor
     5. php artisan migrate
     6. php artisan serve
 
+
     Go to 127.0.0.1:8000
 
     If there was occured any error then run the following command and restart your local server
@@ -37,13 +38,10 @@ It's a simple Ajax base Laravel CRUD system. Add User with some valid user infor
      1. php artisan config:clear
      2. php artisan cache:clear
 
-
-
 <p align="center">
     <img src="//user-images.githubusercontent.com/33959275/167317516-02c20f71-fb52-42f1-a5e6-cc4006f16397.jpg" width="400">
-    
 </p>
-![laravel-logo-svg](https://user-images.githubusercontent.com/33959275/167317516-02c20f71-fb52-42f1-a5e6-cc4006f16397.jpg "laravel")
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
