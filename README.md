@@ -38,10 +38,9 @@ It's a simple Ajax base Laravel CRUD system. Add User with some valid user infor
      1. php artisan config:clear
      2. php artisan cache:clear
 
-<p align="center">
-    <img src="//user-images.githubusercontent.com/33959275/167317516-02c20f71-fb52-42f1-a5e6-cc4006f16397.jpg" width="400">
-</p>
 
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
